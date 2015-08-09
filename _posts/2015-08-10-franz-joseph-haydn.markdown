@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Franz Jospeh Haydn"
-date:   2015-08-10 23:54:21
+date:   2015-08-11 23:54:21
 ---
 Franz Joseph Haydn nació el 31 de marzo de 1732 en Rohrau, una pequeña población cercana a Viena (Austria), en aquella época capital del Sacro Imperio Romano Germánico, y muy próxima a la frontera con Hungría. Fue el segundo de los doce hijos de Mathias Haydn y Anna Maria Koller. Su padre era fabricante y reparador de carros al servicio del conde de Harrach, el aristócrata de la población, y también sirvió como Marktrichter, un cargo similar al de alcalde de pueblo. Su madre había trabajado previamente como cocinera en el palacio del conde Harrach. Ninguno de sus progenitores sabía leer música; sin embargo, Mathias fue un entusiasta músico folclórico y había aprendido a tocar el arpa de forma autodidacta durante la época que trabajó como oficial. Según los últimos recuerdos de Haydn, su infancia con su familia fue extremadamente musical y frecuentemente cantaban juntos y con sus vecinos.
 
