@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wolfgang Amadeus Mozart"
-date:   2015-08-09 23:54:21
+date:   2015-08-10 23:54:21
 ---
 Joannes Chrysostomus Wolfgangus Theophilus Mozarta (Salzburgo, 27 de enero de 1756-Viena, 5 de diciembre de 1791), más conocido como Wolfgang Amadeus Mozart, fue un compositor y pianista austriaco, maestro del Clasicismo, considerado como uno de los músicos más influyentes y destacados de la historia.
 
